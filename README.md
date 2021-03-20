@@ -1,4 +1,4 @@
-# SalesForecasting_ML
+# Sales Forecasting of Retail Clothing
 
 Sales forecasting is the process of estimating future sales. It is crucial for many retail operations. It acts as an essential tool for business planning, marketing and decision making. In fashion industry, the products are usually characterized by long replenishment lead times, short selling seasons and nearly unpredictable demand and therefore, inaccurate forecasts.
 
